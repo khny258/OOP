@@ -1,0 +1,29 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "Object-oriented programming homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khny258/OOP.git"
+  },
+  "author": "Kenny Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khny258/OOP/issues"
+  },
+  "homepage": "https://github.com/khny258/OOP#readme"
+}
