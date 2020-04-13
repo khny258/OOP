@@ -44,7 +44,7 @@ Feel free to contribute!
 To run tests, run the following command:
         
 ```
-npm test under /test
+npm test
 ```
         
 ## Questions
