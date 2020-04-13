@@ -1,6 +1,8 @@
 
 # OOP - Object-oriented programming
 
+<img src="assets/testing.gif">
+
 ## Description
 
 Template Engine
